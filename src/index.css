@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Pacifico&display=swap");
+
+body {
+  background-color: lightblue;
+  margin: 0;
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  text-align: center;
+  background: url("../src/background-score.jpg");
+  background-size: cover;
+}

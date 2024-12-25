@@ -1,0 +1,30 @@
+.error {
+  color: rgb(255, 0, 0);
+}
+h2 {
+  color: azure;
+  font-size: 36px;
+}
+
+div.description {
+  width: 600px;
+  height: 130px;
+  background-color: white;
+  padding: 50px;
+  margin: auto auto;
+  opacity: 65%;
+  border-radius: 10px;
+}
+
+div.weather-search {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 600px) {
+  div.content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+}
